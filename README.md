@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="aws">
 
 <body>
-🥇: Study log
-  
+
+#### :1st_place_medal: Study log
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beongyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :pencil2: Study log
