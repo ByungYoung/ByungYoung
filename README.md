@@ -15,7 +15,11 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="aws">
 
 ![Beongyoung's github stats](https://github-readme-stats.vercel.app/api?username=beongyoung&show_icons=true&theme=tokyonight)
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beongyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@beongyoung)
+</div>
 <!--
 **beongyoung/beongyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
