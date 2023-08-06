@@ -3,7 +3,7 @@ Welcome to my github
 
 Studied in Korea Univ Computer Science 19.
 
-![Beongyoung's github stats](https://github-readme-stats.vercel.app/api?username=beongyoungs&show_icons=true&theme=tokyonight)
+![Beongyoung's github stats](https://github-readme-stats.vercel.app/api?username=beongyoung&show_icons=true&theme=tokyonight)
 <!--
 **beongyoung/beongyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
