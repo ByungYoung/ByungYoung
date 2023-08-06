@@ -15,9 +15,10 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white" alt="aws">
 
 <body>
-  
+#### :1st_place_medal: Used Lang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beongyoung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+#### :pencil2: Study log
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beongyoung&color=dark)](https://velog.io/@beongyoung)
 
 ![Beongyoung's github stats](https://github-readme-stats.vercel.app/api?username=beongyoung&show_icons=true&theme=tokyonight)
