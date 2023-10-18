@@ -23,6 +23,8 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=beongyoung&color=dark)](https://velog.io/@beongyoung)
 
 ![Beongyoung's github stats](https://github-readme-stats.vercel.app/api?username=beongyoung&show_icons=true&theme=tokyonight)
+
+<a href="https://opgc.me/#/users/beongyoung" target="_blank"><img src="https://api.opgc.me/githubs/users/beongyoung/tag/?theme=basic" /></a>
 </body>
 </div>
 <!--
