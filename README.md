@@ -3,7 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=ByungYoung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)  
 </header>
 
-## 👋 Welcome to my GitHub profile!
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ByungYoung"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## 📋 Technologies I've Used
 
